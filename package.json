@@ -23,5 +23,9 @@
     "version": "1.0.0",
     "main": "index.js",
     "author": "Dang Diep",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "babel-preset-es2015": "^6.24.1",
+        "mix": "^0.0.1"
+    }
 }
